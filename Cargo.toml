@@ -1,0 +1,19 @@
+cargo-features = ["edition2024"]
+
+[package]
+name = "rustrs"
+version = "0.0.1"
+#edition = "2024"
+authors = ["Kjhuku <kjhuku@163.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/jhuku/rustrs"
+homepage = "https://github.com/jhuku/rustrs"
+documentation = "https://docs.rs/rustrs"
+description = "HTTP/3 web server framework for Rust"
+#categories = [ "hzr_site", "hzr","hzr_core","hzr_sys","hzr_macros" ]
+
+[dependencies]
+#hzr_macros = {path= "../hzr_macros" }
+#hzr_core = {path= "../hzr_core" }
+#hzr_sys = {path= "../hzr_sys" }
+
